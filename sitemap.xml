@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://OverReplacement877.github.io/my-docs/</loc>
-         <lastmod>2026-01-01</lastmod>
+         <lastmod>2026-01-07</lastmod>
     </url>
     <url>
          <loc>https://OverReplacement877.github.io/my-docs/grafana/grafana-docker-image/</loc>
-         <lastmod>2026-01-01</lastmod>
+         <lastmod>2026-01-07</lastmod>
     </url>
     <url>
          <loc>https://OverReplacement877.github.io/my-docs/mkdocs/mkdocs-deployment-guide/</loc>
-         <lastmod>2026-01-01</lastmod>
+         <lastmod>2026-01-07</lastmod>
     </url>
     <url>
          <loc>https://OverReplacement877.github.io/my-docs/n8n/n8n-docker-image/</loc>
-         <lastmod>2026-01-01</lastmod>
+         <lastmod>2026-01-07</lastmod>
+    </url>
+    <url>
+         <loc>https://OverReplacement877.github.io/my-docs/python/utilities/using-pip-freeze/</loc>
+         <lastmod>2026-01-07</lastmod>
+    </url>
+    <url>
+         <loc>https://OverReplacement877.github.io/my-docs/python/utilities/virtual-env/</loc>
+         <lastmod>2026-01-07</lastmod>
     </url>
 </urlset>
